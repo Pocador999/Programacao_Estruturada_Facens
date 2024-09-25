@@ -4,28 +4,28 @@ Este repositório contém uma série de aulas práticas sobre Programação Estr
 
 ## Conteúdo
 
-### Conceitos Básicos de Programação Estruturada
+### 1. Conceitos Básicos de Programação Estruturada
 - Introdução à programação sequencial, condicional e de repetição em C.
 - Manipulação de variáveis, funções e controle de fluxo.
 
-### Alocação de Memória
+### 2. Alocação de Memória
 - Diferença entre alocação estática e dinâmica.
 - Uso de `malloc` e `free` para alocação e liberação de memória.
 
-### Ponteiros
+### 3. Ponteiros
 - Introdução a ponteiros, operadores `*` e `&`, e como acessar/modificar valores com ponteiros.
 - Relacionamento entre ponteiros e arrays.
 
-### Alocação Dinâmica de Memória
+### 4. Alocação Dinâmica de Memória
 - Funções `malloc`, `realloc` e `free`.
 - Alocação e redimensionamento de memória com `malloc` e `realloc`.
 - Importância de liberar memória com `free` para evitar vazamento de memória.
 
-### Manipulação de Strings com Ponteiros
+### 5. Manipulação de Strings com Ponteiros
 - Declaração e manipulação de strings como arrays de caracteres.
 - Funções `strlen`, `strcpy`, `strcat` e manipulação de strings com ponteiros.
 
-### Passagem de Ponteiros para Funções
+### 6. Passagem de Ponteiros para Funções
 - Diferença entre passagem por valor e por referência.
 - Como passar ponteiros para funções para modificar variáveis e arrays diretamente.
 
